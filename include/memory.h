@@ -1,9 +1,6 @@
 /*
 Name: Abdul Basit 
-Student ID: 0930431
 Date: Sunday December 29, 2017
-Class Code: CIS*2750
-Assignment Number: #1
 */
 
 #ifndef __ABASIT__MEMORY__
